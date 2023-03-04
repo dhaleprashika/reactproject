@@ -1,0 +1,30 @@
+.divBlock{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+    height: 75px;
+    background-color: grey;
+    border: 5px solid black;
+}
+
+.menuBlock ul{
+    display: flex;
+    width: 420px;
+    padding-right: 10px;
+    justify-content: space-between;
+    text-decoration: none;
+    
+}
+
+.menuBlock ul li{
+    list-style: none;
+    color: yellow;
+    /* text-size-adjust: 50px; */
+}
+
+img{
+    height: 70px;
+    width: 250px;
+    padding: 40px;
+}
