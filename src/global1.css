@@ -1,0 +1,29 @@
+.navBlock{
+    display: flex;
+     justify-content: space-between; 
+    align-items: center;
+    height: 75px;
+    border: 2px solid black;
+    background-color: black;
+}
+
+.mbBlock ul{
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    justify-content: space-around;
+    text-decoration: none;
+    color: white;
+}
+
+.mbBlock ul li{
+    
+    /* justify-content: space-between; */
+    list-style: none;
+}
+
+img{
+    height: 70px;
+    width: 200px;
+    padding: 40px;
+}
